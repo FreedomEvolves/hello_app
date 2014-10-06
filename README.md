@@ -1,4 +1,5 @@
-hello_app
-=========
+# Ruby on Rails Tutorial: "hello, world!"
 
-first app in Hartl tutorial
+This is the first application for the
+[*Ruby on Rails Tutorial*](http://www.railstutorial.org/)
+by [Michael Hartl](http://www.michaelhartl.com/).
